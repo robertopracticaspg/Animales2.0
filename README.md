@@ -6,13 +6,13 @@
 ###### Principal
 
 ## Interfaces
-###### Mascotas
+###### Mascotas 
 
 ## Model
 ###### Animal
-###### Araña
-###### Gato
-###### Pez
+###### Araña :spider:
+###### Gato :octocat:
+###### Pez 🐟
 
 ## Descripción del Proyecto
 Crear una jerarquía de clases de animales donde tendrán cabida arañas, gatos y peces. El sistema tiene que recoger información de que algunos de estos animales son mascotas.
@@ -30,9 +30,26 @@ En los peces el método comer mostrará el texto "Los peces comen  plancton", el
 
 Sugerencia: crear una interfaz mascota y en ella los métodos getName(), setName() y jugar()
 
-<h4 align="center">
-:construction: Proyecto en construcción :construction:
-</h4>
+
 
 ## Estado del proyecto
+<h4 align="center">
+:ok_hand: FINALIZADO :ok_hand:
+</h4>
+
+## 📁 Acceso al proyecto
+
+
+
+Título e imagen de portada;
+Insignias;
+Índice;
+Descripción del Proyecto;
+Estado del proyecto;
+Demostración de funciones y aplicaciones;
+Acceso al Proyecto;
+Tecnologías utilizadas;
+Personas Contribuyentes;
+Personas Desarrolladoras del Proyecto;
+Licencia.
 
