@@ -38,18 +38,10 @@ Sugerencia: crear una interfaz mascota y en ella los métodos getName(), setName
 </h4>
 
 ## 📁 Acceso al proyecto
+https://github.com/robertopracticaspg/Animales2.0
 
-
-
-Título e imagen de portada;
-Insignias;
-Índice;
-Descripción del Proyecto;
-Estado del proyecto;
-Demostración de funciones y aplicaciones;
-Acceso al Proyecto;
-Tecnologías utilizadas;
-Personas Contribuyentes;
-Personas Desarrolladoras del Proyecto;
-Licencia.
+## Tecnologías utilizadas
+Java
+## Personas Desarrolladoras del Proyecto
+Roberto Pesquera García
 
