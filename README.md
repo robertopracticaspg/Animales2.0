@@ -15,6 +15,7 @@
 ###### Pez 🐟
 
 ## Descripción del Proyecto
+
 Este proyecto es una jerarquía de clases de animales donde tenemos arañas, gatos y peces.
 
 El sistema  recoge información de que los gatos y los peces son mascotas.
